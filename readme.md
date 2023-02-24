@@ -2,6 +2,6 @@
 
 This Assignment is given in FSJS Bootcamp of [Ineuron](https://ineuron.ai)
 
-[LiveLink](https://counterapptest.netlify.app/)
+[Live Link](https://counterapptest.netlify.app/)
 
 ![Image](./Image/Basic_Counter.png)
